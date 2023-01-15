@@ -1,17 +1,17 @@
 - name: Python
-  weight: 3
+  weight: 5
 
 - name: JavaScript
-  weight: 3
+  weight: 5
 
 - name: PHP
   weight: 3
 
 - name: Angular
-  weight: 3
+  weight: 5
 
 - name: Node
-  weight: 3
+  weight: 5
 
 - name: SQL
   weight: 3

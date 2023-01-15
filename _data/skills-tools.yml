@@ -1,8 +1,8 @@
 - name: Git
-  weight: 3
+  weight: 5
 
 - name: Bash
-  weight: 3
+  weight: 4
 
 - name: Regex
   weight: 3
@@ -14,22 +14,22 @@
   weight: 3
 
 - name: Network Analysis
-  weight: 3
+  weight: 5
 
 - name: TEI-Compliant Text Encoding
   weight: 3
 
 - name: Text Analysis
-  weight: 3
+  weight: 5
 
 - name: Database Design
-  weight: 3
+  weight: 5
 
 - name: Data Scraping
-  weight: 3
+  weight: 4
 
 - name: Data Cleaning
-  weight: 3
+  weight: 4
 
 - name: Visualization
-  weight: 3
+  weight: 4
