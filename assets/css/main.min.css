@@ -28,6 +28,9 @@ a{
 a:hover{
     color:#fff
 }
+.title-font {
+    font-family: "Julius Sans One"
+}
 .highlight-title{
     color:#d46a00;
     text-shadow:0.25rem 0.25rem 0.25rem rgb(212, 106, 0, 0.5)

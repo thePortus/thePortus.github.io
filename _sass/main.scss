@@ -6,8 +6,9 @@
 $small-screen: 48em !default;
 $medium-screen: 62em !default;
 $large-screen: 75em !default;
-$font-family: "Julius Sans One", sans-serif;
-$font-family-numbers: "Lato", sans-serif;
+$font-family: "Lato", sans-serif;
+$title-font-family: "Julius Sans One", sans-serif;
+$font-family-numbers: "Julius Sans One", sans-serif;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
@@ -56,6 +57,10 @@ a {
   &:hover {
     color: $text-color;
   }
+}
+
+.title-font {
+  font-family: $title-font-family;
 }
 
 .highlight-title {
