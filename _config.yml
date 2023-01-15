@@ -1,0 +1,59 @@
+title: David Thomas - CV
+description: David Thomas' CV
+baseurl: "https://theportus.github.io/"
+
+username: David Thomas
+typing_text: Digital Scholar, Ancient Historian
+
+email: dave.a.base@gmail.com
+github_username: theportus
+
+show_aboutme_card: false
+about_me_title: About Me
+about_me_description: <empty>
+
+show_skills_card: true
+skills_title: Skills
+
+show_timeline_card: true
+timeline_education_title: Education
+timeline_work_title: College Teaching Experience
+cv_download_link: https://theport.us/wp-content/uploads/2022/06/CV.pdf
+
+show_projects_card: true
+show_projects: true
+projects_title: Work Projects
+show_os_projects: false
+os_projects_title: Portfolio Projects
+
+show_contact_card: true
+contact_title: Contacts
+contact_description: Contact me
+
+repository: theportus/theportus.github.io
+github_pages:
+  - networks-of-roman-eleusis
+  - asc-analysis
+  - dhelp
+  - theportus.github.io
+  
+projects:
+  sort_by: stars
+  exclude:
+    archived: true
+    forks: true
+    projects:
+      - theportus
+
+plugins:
+  - "jekyll-github-metadata"
+
+exclude:
+  [
+    "_assets",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+  ]

@@ -1,0 +1,56 @@
+- 
+  name: The Networks of Roman Eleusis
+  project-page: https://eleusis.thePort.us
+  role: Sole Developer
+  descr: A full-stack web app to browse and visualize the inscriptions from the Athenian sanctuary of Eleusis in the Roman era. Features user accounts and secure data entry.
+  tags:
+    - Epigraphy
+    - Ancient History
+    - Network Analysis
+    - Web App
+    - Angular
+    - Node
+-
+  name: DHelp
+  role: Sole Developer
+  descr: Created a Python package to allow my students (and any DH students) to quickly perform a large number of operations that they need to use on a regular basis, including loaded and altering different kinds of data, performing text analysis in a number of languages.
+  project-page: github.com/thePortus/dhelp
+  tags:
+    - Python
+    - Web Scraping
+    - Text Analysis
+-
+  name: Severan Database Project
+  role: Lead Developer
+  descr: Provided long-term technical oversight and assisted project planning. Redesigned project data models for long term publication on GitHub.
+  project-page: https://github.com/usf-portal/severan-database-project
+  tags:
+    - Epigraphy
+    - Ancient History
+-
+  name: Florida Postcard Project
+  role: Advisory Board Member
+  descr: Provided long-term technical oversight and assisted project planning. Developed project solutions for database design, data entry, and language control.
+  project-page: http://flpostcards.web.usf.edu/
+  tags:
+    - Local History
+    - Data Control
+-
+  name: Anglo-Saxon Charter Analysis
+  role: Sole Author
+  descr: Created a demonstration/tutorial of digital methods which can either be downloaded and run locally, or run in-browser. Demonstration uses Python to analyze about over 2,500 people who appear in almost 500 charters from Anglo-Saxon England, c. 600-900. Tutorial and documentation shows how to scrape data right from the project website, store it in a local database, export data, perform network analysis to find key individuals, and run some basic text analysis.
+  project-page: github.com/thePortus/asc-analysis
+  tags:
+    - Medieval History
+    - Python
+    - Web Scraping
+    - Network Analysis
+-
+  name: USF in the News
+  role: Sole Author
+  descr: A demonstration of how to produce results fast with DH techniques. Originally created for a faire, within a space of just 48 hours every story published about USF worldwide was gathered using a free chrome extension and visualized with Tableau. In 2019, the visualizations and data were revamped and republished. 
+  project-page: public.tableau.com/views/USFintheNews2011-2016/USFintheNews
+  tags:
+    - Tableau
+    - Web Scraping
+    - Data Visualization

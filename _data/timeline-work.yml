@@ -1,0 +1,49 @@
+- title: University of South Florida
+  title-url: https://www.usf.edu/
+  date: 2018 - 2020
+  subtitle: Instructor of Digital Humanities and Ancient History
+  tags:
+    - tag: EUH 2011/12 – Ancient History I/II
+    - tag: EUH 3412 – Roman Republic
+    - tag: EUH 3421 - Early Crusades
+    - tag: HIS 4936 - Hacking History
+    - tag: LIT 3419 - Religious and Philosophical Themes (Ancient Religions)
+    - tag: HIS 4936 - Digital History (Seminar)
+    - tag: HIS 4936 - Programming the Past (Seminar)
+    - tag: HIS 4936/6939 - Religions of the Ancient Mediterranean (Seminar)
+  timeline-side: right
+
+- title: University of South Florida
+  title-url: https://www.usf.edu/
+  date: 2014 - 2018
+  subtitle: Visiting Instructor of History
+  tags:
+    - tag: EUH 2011/12 – Ancient History I/II
+    - tag: EUH 3412 – Roman Republic
+    - tag: HIS 3930 - Community and Exclusion in Ancient Greece
+    - tag: HIS 4900 - Digital Humanities Workshop
+    - tag: HIS 4936/6939 - Introduction to Digital Humanities (Seminar)
+    - tag: HIS 4936/6939 - Programming the Past (Seminar)
+    - tag: HIS 4936 - Religions of the Ancient Mediterranean (Seminar)
+  timeline-side: left
+
+- title: Brown University
+  title-url: http://brown.edu/
+  date: 2008 - 2014
+  subtitle: Teaching Assistant
+  tags:
+    - tag: HIST 1000 A/B – Hellenistic Greece/Shaping of the Classical World
+    - tag: "HIST 1530 - Korea: Contending with Modernity"
+    - tag: HIST 1730/40 - Antebellum America/Civil War & Reconstruction
+    - tag: HIST 1730A - North American Environmental History
+  timeline-side: right
+
+- title: Northern Illinois University
+  title-url: https://www.niu.edu/
+  date: 2005 - 2007
+  subtitle: Teaching Assistant
+  tags:
+    - tag: HIST 140 - Asia to 1500
+    - tag: HIST 110 - Western Civilization to 1500
+    - tag: HIST 113 - Western Civilization since 1815
+  timeline-side: left

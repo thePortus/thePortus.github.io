@@ -1,0 +1,26 @@
+- name: Python
+  weight: 3
+
+- name: JavaScript
+  weight: 3
+
+- name: PHP
+  weight: 3
+
+- name: Angular
+  weight: 3
+
+- name: Node
+  weight: 3
+
+- name: SQL
+  weight: 3
+
+- name: TypeScript
+  weight: 3
+
+- name: Perl
+  weight: 3
+
+- name: Django
+  weight: 3

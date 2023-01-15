@@ -1,0 +1,35 @@
+- name: Git
+  weight: 3
+
+- name: Bash
+  weight: 3
+
+- name: Regex
+  weight: 3
+
+- name: 3D Modeling
+  weight: 3
+
+- name: GIS
+  weight: 3
+
+- name: Network Analysis
+  weight: 3
+
+- name: TEI-Compliant Text Encoding
+  weight: 3
+
+- name: Text Analysis
+  weight: 3
+
+- name: Database Design
+  weight: 3
+
+- name: Data Scraping
+  weight: 3
+
+- name: Data Cleaning
+  weight: 3
+
+- name: Visualization
+  weight: 3

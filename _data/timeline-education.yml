@@ -1,0 +1,25 @@
+- title: Brown University
+  title-url: https://www.brown.edu
+  date: 2010
+  subtitle: M.A. (Ph.D. Candidacy Obtained 2013)
+  tags:
+    - tag: Greek History
+    - tag: Roman History
+    - tag: Medieval History
+    - tag: Greek Epigraphy
+  timeline-side: right
+
+- title: Northern Illinois University
+  title-url: https://www.niu.edu
+  date: 2008
+  subtitle: M.A.
+  tags:
+    - tag: Ancient History
+    - tag: Medieval History
+  timeline-side: left
+
+- title: Northern Illinois University
+  title-url: https://www.niu.edu
+  date: 2003
+  subtitle: B.S.
+  timeline-side: right

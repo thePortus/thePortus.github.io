@@ -1,0 +1,11 @@
+- name: Classical Greek
+  weight: 4
+
+- name: Latin
+  weight: 4
+
+- name: French
+  weight: 2
+
+- name: German
+  weight: 2
