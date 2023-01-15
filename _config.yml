@@ -8,7 +8,7 @@ typing_text: Digital Scholar, Ancient Historian
 email: dave.a.base@gmail.com
 github_username: theportus
 
-show_aboutme_card: false
+show_aboutme_card: true
 about_me_title: About Me
 about_me_description: I am David Thomas, a Digital Scholar and Ancient Historian. I teach, advise, and code Digital Scholarship projects including full stack web apps. I want to make scholars and students as critical about data as they are about texts.
 
