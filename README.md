@@ -5,9 +5,9 @@
 [Portfolio](https://theportus.github.io)
   
 
-- 🔭 I’m currently looking for work
+- I'm an incoming Senior Digital Scholarship Specialist at Boston College.
 
-- 🌱 I’m building an app to house information on medieval conference presentations   
+- I’m building an app to house information on medieval conference presentations   
   
 
 <br/>  
